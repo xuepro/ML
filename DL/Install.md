@@ -13,7 +13,7 @@
     jupyter notebook
 ```
 
-4. install tensorflow
+4. [install tensorflow](https://www.tensorflow.org/install/)
 ```
   4.1  conda create -n tensorflow pip python=3.5 
   4.2  activate tensorflow
