@@ -17,7 +17,10 @@
 ```
   4.1  conda create -n tensorflow pip python=3.5 
   4.2  activate tensorflow
-  4.3. pip install --ignore-installed --upgrade tensorflow
+  4.3. 
+  CPU版本：  pip install --ignore-installed --upgrade tensorflow
+  或GPU版本： pip install --ignore-installed --upgrade tensorflow-gpu 
+  
   4.4  test installation of tensorflow:
     import tensorflow as tf
     hello = tf.constant('Hello, TensorFlow!')
