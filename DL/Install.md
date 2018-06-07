@@ -57,10 +57,10 @@
   5.5 in your notebook,test following code:
     
   
-      from __future__ import print_function
-      import torch
-      x = torch.empty(5, 3)
-      print(x)
+        from __future__ import print_function
+        import torch
+        x = torch.empty(5, 3)
+        print(x)
     
  ```   
   
