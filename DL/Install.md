@@ -28,7 +28,7 @@
     print(sess.run(hello))
  ```
  
- 5. [install pytorch](https://pytorch.org/)
+ 5. [install pytorch](https://pytorch.org/) 和[Creating Conda Environments](https://dziganto.github.io/data%20science/python/anaconda/Creating-Conda-Environments/)
   
   
   
