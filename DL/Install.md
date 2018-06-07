@@ -18,7 +18,7 @@
 
  
 
-3. install Anaconda
+3. [install Anaconda](https://www.anaconda.com/download/)
 
 4. install jupyter 
 ```
