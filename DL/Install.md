@@ -50,7 +50,17 @@
 ```
   5.1 conda create -n pytorch  python=3.6 numpy scipy  cython
   5.2 activate pytorch
-  conda install pytorch cuda90 -c pytorch 
-  pip install torchvision
-```
+  5.3  conda install pytorch cuda90 -c pytorch 
+      pip install torchvision
+      pip install jupyter notebook
+  5.4  jupyter notebook
+  5.5 in your notebook,test following code:
+    
+  
+      from __future__ import print_function
+      import torch
+      x = torch.empty(5, 3)
+      print(x)
+    
+ ```   
   
