@@ -64,3 +64,8 @@
     
  ```   
   
+ 6. install openAI gym
+   pip install matplotlib
+   conda install -c seibert jsanimation
+   
+   //http://mckinziebrandon.me/TensorflowNotebooks/2016/12/21/openai.html
