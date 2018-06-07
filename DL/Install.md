@@ -13,8 +13,9 @@
    - 1.0 uninstall CUDA 8. [卸载以前安装的CUDA8](https://blog.csdn.net/shuiyuejihua/article/details/78738664)
    
    - 1.1 download Cuda 9.0 . [下载CUDA9.0](https://developer.nvidia.com/cuda-90-download-archive)  :注意除“ Base Installer”外，所有“patch”都要下载
+   - 1.2 download Cudnn7.0并解压到C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0
    
-   - 1.2 install CUDA9.0 安装CUDA9 （注意：先要安装VS2017） 
+   - 1.3 install CUDA9.0 安装CUDA9 （注意：先要安装VS2017） 
 
  
 
