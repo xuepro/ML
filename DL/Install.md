@@ -51,6 +51,6 @@
   5.1 conda create -n pytorch  python=3.6 numpy scipy  cython
   5.2 activate pytorch
   conda install pytorch cuda90 -c pytorch 
-  pip3 install torchvision
+  pip install torchvision
 ```
   
