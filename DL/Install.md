@@ -20,32 +20,31 @@
 
 3. [install Anaconda](https://www.anaconda.com/download/)
 
-4. install jupyter 
-```
-    pip install jupyter notebook
-    jupyter notebook
-```
 
-5. [install tensorflow](https://www.tensorflow.org/install/)
+
+4. [install tensorflow](https://www.tensorflow.org/install/)
 ```
-  5.1  conda create -n tensorflow pip python=3.5 
-  5.2  activate tensorflow    
+  4.1  conda create -n tensorflow pip python=3.5 
+  4.2  activate tensorflow    
        conda activate tensorflow
-  5.3. 
+  4.3. 
   CPU版本：  pip install --ignore-installed --upgrade tensorflow
   或GPU版本： pip install --ignore-installed --upgrade tensorflow-gpu 
   
-  5.4  test installation of tensorflow:
+  4.4 pip install jupyter notebook
+    jupyter notebook
+    
+  4.5  test installation of tensorflow:
     import tensorflow as tf
     hello = tf.constant('Hello, TensorFlow!')
     sess = tf.Session()
     print(sess.run(hello))
     
-   5.5 deactive tensorflow 
+   4.6 deactive tensorflow 
        conda deactive tensorflow
  ```
  
- 6. [install pytorch](https://pytorch.org/) 和[Creating Conda Environments](https://dziganto.github.io/data%20science/python/anaconda/Creating-Conda-Environments/)
+ 5. [install pytorch](https://pytorch.org/) 和[Creating Conda Environments](https://dziganto.github.io/data%20science/python/anaconda/Creating-Conda-Environments/)
   
   
   
