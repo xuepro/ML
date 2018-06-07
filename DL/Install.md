@@ -29,7 +29,8 @@
 5. [install tensorflow](https://www.tensorflow.org/install/)
 ```
   5.1  conda create -n tensorflow pip python=3.5 
-  5.2  conda activate tensorflow
+  5.2  activate tensorflow    
+       conda activate tensorflow
   5.3. 
   CPU版本：  pip install --ignore-installed --upgrade tensorflow
   或GPU版本： pip install --ignore-installed --upgrade tensorflow-gpu 
@@ -40,7 +41,8 @@
     sess = tf.Session()
     print(sess.run(hello))
     
-   5.5 conda deactive tensorflow
+   5.5 deactive tensorflow 
+       conda deactive tensorflow
  ```
  
  6. [install pytorch](https://pytorch.org/) 和[Creating Conda Environments](https://dziganto.github.io/data%20science/python/anaconda/Creating-Conda-Environments/)
