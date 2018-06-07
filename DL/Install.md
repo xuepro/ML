@@ -45,7 +45,8 @@
  ```
  
  5. [install pytorch](https://pytorch.org/) 和[Creating Conda Environments](https://dziganto.github.io/data%20science/python/anaconda/Creating-Conda-Environments/)
-  
+  5.1 
+  5.2 conda install pytorch torchvision cuda90 -c pytorch
   
   
 ```
