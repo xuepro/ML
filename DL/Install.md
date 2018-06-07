@@ -63,9 +63,22 @@
         print(x)
     
  ```   
-  
+ 
+ pip install matplotlib
+ 
+ 6. install  JSAnimation package 
+ 
+ https://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/Render%20OpenAI%20gym%20as%20GIF.ipynb
+ 
+ ```
+ git clone https://github.com/jakevdp/JSAnimation
+ cd JSAnimation
+ python setup.py install
+ ```
+ 
  6. install openAI gym
-   pip install matplotlib
-   conda install -c seibert jsanimation
+    
+    pip install gym
+  
    
    //http://mckinziebrandon.me/TensorflowNotebooks/2016/12/21/openai.html
