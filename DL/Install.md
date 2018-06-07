@@ -6,15 +6,15 @@
 
 1. [install CUDA](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html)
 
-  [於Win10環境下配置CUDA 9.0與cuDNN 7.0](https://rreadmorebooks.blogspot.com/2018/01/win10cuda-90cudnn-70.html)
+[於Win10環境下配置CUDA 9.0與cuDNN 7.0](https://rreadmorebooks.blogspot.com/2018/01/win10cuda-90cudnn-70.html)
   
-  [Windows 10 安装使用TensorFlow-GPU cuda 9.0](https://www.codetd.com/article/147955)
+[Windows 10 安装使用TensorFlow-GPU cuda 9.0](https://www.codetd.com/article/147955)
   
-   1.0 [卸载以前安装的CUDA8](https://blog.csdn.net/shuiyuejihua/article/details/78738664)
+   - 1.0 [卸载以前安装的CUDA8](https://blog.csdn.net/shuiyuejihua/article/details/78738664)
    
-   1.1 [下载CUDA9.0](https://developer.nvidia.com/cuda-90-download-archive)  :注意除“ Base Installer”外，所有“patch”都要下载
+   - 1.1 [下载CUDA9.0](https://developer.nvidia.com/cuda-90-download-archive)  :注意除“ Base Installer”外，所有“patch”都要下载
    
-   1.2 安装CUDA9 （注意：先要安装VS2017） 
+   - 1.2 安装CUDA9 （注意：先要安装VS2017） 
 
  
 
