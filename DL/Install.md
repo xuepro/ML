@@ -3,7 +3,7 @@
 ## Install tensorflow,pytorch
 
 
-1. install CUDA
+1. install CUDA: [於Win10環境下配置CUDA 9.0與cuDNN 7.0](https://rreadmorebooks.blogspot.com/2018/01/win10cuda-90cudnn-70.html)
 
 2. install Anaconda
 
