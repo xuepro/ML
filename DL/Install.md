@@ -6,6 +6,9 @@
 1. [install CUDA](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html)
 
   [於Win10環境下配置CUDA 9.0與cuDNN 7.0](https://rreadmorebooks.blogspot.com/2018/01/win10cuda-90cudnn-70.html)
+  
+ 1.1 [下载CUDA9.0](https://developer.nvidia.com/cuda-90-download-archive)  :注意除“ Base Installer”外，所有“patch”都要下载
+ 
 
 2. install Anaconda
 
